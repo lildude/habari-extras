@@ -955,6 +955,3 @@
 [submodule "plugin/nameguard"]
 	path = plugin/nameguard
 	url = https://github.com/habari-extras/nameguard.git
-[submodule "plugin/allposts"]
-	path = plugin/allposts
-	url = https://github.com/habari-extras/allposts.git
