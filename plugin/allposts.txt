@@ -1,1 +1,0 @@
-Add ability to view all your posts at once.
