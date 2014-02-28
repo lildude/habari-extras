@@ -916,9 +916,6 @@
 [submodule "plugin/habaribox"]
 	path = plugin/habaribox
 	url = https://github.com/habari-extras/habaribox.git
-[submodule "theme/Portfolio"]
-	path = theme/Portfolio
-	url = https://github.com/habari-extras/Portfolio.git
 [submodule "theme/scientist"]
 	path = theme/scientist
 	url = https://github.com/habari-extras/scientist.git
