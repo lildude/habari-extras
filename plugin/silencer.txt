@@ -1,1 +1,0 @@
-Disables comments for all newly published posts.
